@@ -1,0 +1,12 @@
+Comments are useful when i wantto write something about the code but i do not want to run that.
+Comments are basically for humens,comments use for othe developer who might work on the same codebase.
+To create a comment we write the text between
+
+<!.......>
+
+example
+<!- - This is a comment
+
+  This can be a multi line as well -- >
+
+<h2>Multi line comments</h2>

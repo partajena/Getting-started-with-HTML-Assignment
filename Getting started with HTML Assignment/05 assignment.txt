@@ -1,0 +1,4 @@
+DOCTYPE HTML
+A doctype is a docoment type declaration,which informs the browser about the document to be expected on the webpage.
+the HTML doctype is not a tag or element of the html.
+the HTML doctype tells the browser about the specifications like the version of the html or the standards.

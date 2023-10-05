@@ -1,0 +1,6 @@
+Tags are used to mark up the start of an HTML element and they are usually enclosed in angle brackets.
+example:<h1>most tags must be opened and close</h1>in order to function.
+the <html>element is the root element and it defines the whole HTML docoment.
+it has a start tag <html>and an end tag</html>
+the<body>element defines the docoment's body.
+it has a starting tag<body>and an end tag</body>.
